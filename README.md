@@ -17,5 +17,5 @@ A simple and user-friendly Body Mass Index (BMI) Calculator app that allows user
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/noormaahnaveed/BMI_Calculato.git
+git clone https://github.com/AbdulAhadJunaid/BMI_Calclator.git
 cd BMI_Calculato
